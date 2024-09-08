@@ -28,6 +28,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sugam1409&color=blue)
 
-## 📊 Kaushal Singh's GitHub Stats:
 
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalsingh&show_icons=true&theme=radical)
+![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalsingh&show_icons=true&theme=dark)
