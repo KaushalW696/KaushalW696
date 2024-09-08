@@ -21,5 +21,5 @@
 1. Bachelor of Science in Mathematics , Banaras Hindu University Varanasi (BHU )
 2. Master of Science in Mathematics , Nationa Institute of Technology Warangal (NITW)
 ## 📫 How to Reach Me
-. Email - ks23mac1r10@student.nitw.ac.in
+. Email - ks23mac1r10@student.nitw.ac.in<br\>
 . Linkdin - kaushal-singh-239192277/
