@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**KaushalW696/KaushalW696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My Github Profile!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Machine Learning models.
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+. 🔭 I’m currently working on Machine Learning models.
+. 🌱 I’m currently learning Data Science. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I once hosted a freshers' party for over 100 juniors!
+
+## 🌱 Skills
+-Skills that I'm learning in Data Science Journey
+
+1. SQL, Excel
+2. Python
+3. Data Structure and Algorithms
+4. Machine learning Algorithms
+5. Feature engineering
+6. Prob. and Stats and many more ... 
+
+## Education
+1. Bachelor of Science in Mathematics , Banaras Hindu University Varanasi (BHU )
+2. Master of Science in Mathematics , Nationa Institute of Technology Warangal (NITW)
+## 📫 How to Reach Me
+Email - ks23mac1r10@student.nitw.ac.in
+Linkdin - kaushal-singh-239192277/
