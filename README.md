@@ -26,9 +26,16 @@
  Linkdin - [[kaushal-singh-239192277/]](https://www.linkedin.com/in/kaushal-singh-239192277/)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=sugam1409&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=KaushalW696&color=blue)
 
 
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalsingh&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsingh&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kaushalsingh&show_icons=true&theme=dark" alt="Kaushal's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsingh&layout=compact&theme=dark" alt="Kaushal's Top Languages" />
+    </td>
+  </tr>
+</table>
