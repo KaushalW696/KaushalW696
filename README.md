@@ -3,7 +3,7 @@
 # Welcome to My Github Profile!
 
 . 🔭 I’m currently working on Machine Learning models.
-. 🌱 I’m currently learning Data Science. 
+- 🌱 I’m currently learning Data Science. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once hosted a freshers' party for over 100 juniors!
 
