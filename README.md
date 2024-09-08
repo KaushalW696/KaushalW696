@@ -30,3 +30,5 @@
 
 
 ![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalsingh&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsingh&layout=compact&theme=dark)
