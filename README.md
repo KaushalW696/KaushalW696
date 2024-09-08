@@ -22,4 +22,4 @@
 2. Master of Science in Mathematics , Nationa Institute of Technology Warangal (NITW)
 ## 📫 How to Reach Me
  Email - ks23mac1r10@student.nitw.ac.in<br />
- Linkdin - [kaushal-singh-239192277/]
+ Linkdin - [[kaushal-singh-239192277/]](https://www.linkedin.com/in/kaushal-singh-239192277/)
