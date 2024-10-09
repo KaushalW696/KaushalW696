@@ -35,7 +35,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=KaushalW696&show_icons=true&theme=dark" alt="Kaushal's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsingh&layout=compact&theme=dark" alt="Kaushal's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsingh&layout=compact&theme=light" alt="Kaushal's Top Languages" />
     </td>
   </tr>
 </table>
